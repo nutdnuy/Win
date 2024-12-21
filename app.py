@@ -98,6 +98,7 @@ with st.chat_message("assistant"):
 
     import streamlit as st
     import pandas as pd
+    import matplotlib
     import matplotlib.pyplot as plt
     
     # Data from the chart
